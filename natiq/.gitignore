@@ -1,0 +1,14 @@
+node_modules/
+coverage/
+build/
+
+.vscode/
+
+package-lock.json
+serviceAccount.json
+
+.env
+HadithTable.ts
+TODO.md
+
+.dccache
